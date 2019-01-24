@@ -1,4 +1,4 @@
-# isoverse <a href='http://www.isoverse.org'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
+# isoverse <a href='http://www.isoverse.org'><img src='man/figures/isoprocessor_logo_thumb.png' align="right" height="138.5" /></a>
 
 [![Documentation](https://img.shields.io/badge/docs-online-green.svg)](http://www.isoverse.org)
 
@@ -13,3 +13,7 @@ Please install the isoverse packages you are interested following the instructio
 <a href='https://isoreader.kopflab.org'><img src='man/figures/isoreader_logo_thumb.png' align="center" height="138.5" /></a>
 <a href='https://isoprocessor.kopflab.org'><img src='man/figures/isoprocessor_logo_thumb.png' align="center" height="138.5" /></a>
 <a href='https://isoviewer.kopflab.org'><img src='man/figures/isoviewer_logo_thumb.png' align="center" height="138.5" /></a>
+
+## Spread the word
+
+If you like the functionality that isoverse provides to the geochemical community, please help us spread the word and include the isoverse logo on one of your posters or slides. All logos are posted in high resolution in this repository under  [man/figures](tree/master/man/figures)

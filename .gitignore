@@ -28,7 +28,6 @@ packrat/src/
 # exclude output files
 *.pdf
 *.html
-*.png
 *.jpeg
 *.jpg
 *.pptx
