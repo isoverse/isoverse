@@ -1,6 +1,6 @@
-# isoverse <a href='https://www.isoverse.org'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
+# isoverse <a href='http://www.isoverse.org'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
 
-[![Documentation](https://img.shields.io/badge/docs-online-green.svg)](https://www.isoverse.org)
+[![Documentation](https://img.shields.io/badge/docs-online-green.svg)](http://www.isoverse.org)
 
 ## About
 
@@ -11,5 +11,5 @@ Isoverse is a suite of platform-independent (Windows, Mac, Linux), open-source d
 Please install the isoverse packages you are interested following the instructions at the following links:
 
 <a href='https://isoreader.kopflab.org'><img src='man/figures/isoreader_logo_thumb.png' align="center" height="138.5" /></a>
-<a href='https://isoreader.kopflab.org'><img src='man/figures/isoprocessor_logo_thumb.png' align="center" height="138.5" /></a>
+<a href='https://isoprocessor.kopflab.org'><img src='man/figures/isoprocessor_logo_thumb.png' align="center" height="138.5" /></a>
 <a href='https://isoviewer.kopflab.org'><img src='man/figures/isoviewer_logo_thumb.png' align="center" height="138.5" /></a>
