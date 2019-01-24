@@ -16,4 +16,4 @@ Please install the isoverse packages you are interested following the instructio
 
 ## Spread the word
 
-If you like the functionality that isoverse provides to the geochemical community, please help us spread the word and include the isoverse logo on one of your posters or slides. All logos are posted in high resolution in this repository under  [man/figures](/tree/master/man/figures)
+If you like the functionality that isoverse provides to the geochemical community, please help us spread the word and include the isoverse logo on one of your posters or slides. All logos are posted in high resolution in this repository under  [man/figures](man/figures)
