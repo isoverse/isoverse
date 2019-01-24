@@ -1,5 +1,7 @@
 # isoverse <a href='https://www.isoverse.org'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
 
+[![Documentation](https://img.shields.io/badge/docs-online-green.svg)](https://www.isoverse.org)
+
 ## About
 
 Isoverse is a suite of platform-independent (Windows, Mac, Linux), open-source data tools for the efficient and reproducible processing of stable isotope data. Although written primarily in R, it can be used in both RMarkdown as well as Jupyter data processing notebooks. Due to the design based on the popular tidyverse style of R programming, all isoverse packages are easily extendable and work great with tidyverse packages such as tidyr, dplyr and ggplot.
@@ -8,3 +10,6 @@ Isoverse is a suite of platform-independent (Windows, Mac, Linux), open-source d
 
 Please install the isoverse packages you are interested following the instructions at the following links:
 
+<a href='https://isoreader.kopflab.org'><img src='man/figures/isoreader_logo_thumb.png' align="center" height="138.5" /></a>
+<a href='https://isoreader.kopflab.org'><img src='man/figures/isoprocessor_logo_thumb.png' align="center" height="138.5" /></a>
+<a href='https://isoviewer.kopflab.org'><img src='man/figures/isoviewer_logo_thumb.png' align="center" height="138.5" /></a>
