@@ -8,11 +8,11 @@ Isoverse is a suite of platform-independent (Windows, Mac, Linux), open-source d
 
 ## Installation
 
-Please install the isoverse packages you are interested following the instructions at the following links:
+Please install the isoverse packages you are interested by following the instructions for each package:
 
-<a href='https://isoreader.kopflab.org'><img src='man/figures/isoreader_logo_thumb.png' align="center" height="138.5" /></a>
-<a href='https://isoprocessor.kopflab.org'><img src='man/figures/isoprocessor_logo_thumb.png' align="center" height="138.5" /></a>
-<a href='https://isoviewer.kopflab.org'><img src='man/figures/isoviewer_logo_thumb.png' align="center" height="138.5" /></a>
+<a href='https://isoreader.kopflab.org'><img src='man/figures/isoreader_logo_thumb.png' target="_blank" align="center" height="138.5" /></a>
+<a href='https://isoprocessor.kopflab.org'><img src='man/figures/isoprocessor_logo_thumb.png' target="_blank" align="center" height="138.5" /></a>
+<a href='https://isoviewer.kopflab.org'><img src='man/figures/isoviewer_logo_thumb.png' target="_blank" align="center" height="138.5" /></a>
 
 ## Spread the word
 
